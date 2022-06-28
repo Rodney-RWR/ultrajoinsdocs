@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'UltraJoins'
+copyright = '2022, UltraJoins'
+author = 'UltraJoins'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.3'
 
 # -- General configuration
 
